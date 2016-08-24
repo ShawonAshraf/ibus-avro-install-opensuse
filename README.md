@@ -3,8 +3,18 @@
 
 #####Installation
 * Make sure you have ibus already installed. If not install it from YAST
-* Go root
-* Make the script executable :
+* Go to your root dir
+* Clone :
+
+```bash
+git clone https://github.com/ShawonAshraf/ibus-avro-install-opensuse
+```
+
+* Get inside the dir
+
+cd ibus-avro-install
+
+* Make the script executable (go root if you face permission problems) :
 
 ```bash
 chmod +x ibus-avro-install.sh
