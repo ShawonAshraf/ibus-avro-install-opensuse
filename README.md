@@ -12,7 +12,9 @@ git clone https://github.com/ShawonAshraf/ibus-avro-install-opensuse
 
 * Get inside the dir
 
+```bash
 cd ibus-avro-install
+```
 
 * Make the script executable (go root if you face permission problems) :
 
