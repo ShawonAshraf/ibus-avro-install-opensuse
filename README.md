@@ -15,6 +15,9 @@ chmod +x ibus-avro-install.sh
 ```bash
 ./ibus-avro-install.sh
 ```
+
+* When done, restart ibus. Then go to ibus preferences, add Bengali > Avro Phonetic.
+
 > Command line may show some packages are missing - ignore it.
 
 ######License 
