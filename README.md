@@ -4,7 +4,7 @@
 #####Installation
 * Make sure you have ibus already installed. If not install it from YAST
 * Go to your root dir
-* Clone :
+* Clone, if you don't have git installed, install it, or just download as zip, extract :
 
 ```bash
 git clone https://github.com/ShawonAshraf/ibus-avro-install-opensuse
