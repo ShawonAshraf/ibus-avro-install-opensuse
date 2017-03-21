@@ -1,7 +1,7 @@
-#ibus-avro installer for openSUSE Leap
-###A bash script to make the installation easy for you! (Tested on openSUSE Leap 42.1)
+# ibus-avro installer for openSUSE Leap
+### A bash script to make the installation easy for you! (Tested on openSUSE Leap 42.1, 42.2)
 
-#####Installation
+##### Installation
 * Make sure you have ibus already installed. If not install it from YAST
 * Go to your root dir
 * Clone, if you don't have git installed, install it, or just download as zip, extract :
@@ -32,5 +32,3 @@ chmod +x ibus-avro-install.sh
 
 > Command line may show some packages are missing - ignore it.
 
-######License 
-MIT License
